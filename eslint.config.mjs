@@ -450,7 +450,7 @@ export default [
       eqeqeq: ["warn", "always"],
       "no-floating-decimal": ["warn"],
       "brace-style": ["warn", "stroustrup"],
-      "no-var": ["error"],
+      "no-var": ["warn"],
       "no-cond-assign": ["error", "always"],
       "no-unused-vars": "off",
     },
